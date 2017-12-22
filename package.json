@@ -1,9 +1,9 @@
 {
-  "name": "fine-uploader",
-  "title": "Fine Uploader",
+  "name": "abhi-uploader",
+  "title": "Abhi Uploader",
   "main": "lib/traditional.js",
   "types": "typescript/fine-uploader.d.ts",
-  "version": "5.15.4",
+  "version": "5.15.5",
   "description": "Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.",
   "keywords": [
     "amazon",
@@ -33,19 +33,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/FineUploader/fine-uploader.git"
+    "url": "git://github.com/abhisharkjangir/abhi-uploader-npm.git"
   },
-  "author": "Ray Nicholus",
+  "author": "Abhishar Jangir (http://imabhi.in)",
   "contributors": [
     {
-      "name": "Ray Nicholus",
-      "url": "http://raynicholus.com"
+      "name": "Abhishar Jangir",
+      "url": "http://imabhi.in"
     }
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FineUploader/fine-uploader/issues"
-  },
   "devDependencies": {
     "clean-css-cli": "4.0.8",
     "jscs": "3.0.7",
